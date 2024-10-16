@@ -8,7 +8,7 @@ The following were objectives of our analysis
 1. To determine how age affects performance of students
 2. To determine performance of students across different subjects
 
-##Recommendations Summary:
+ ## Recommendations Summary:
 
 Subject-Specific Examination: Analyze specific topics within each subject to identify causes of variability. Focus on subjects with lower averages or high score variability. Highlight strengths (e.g., Science, English) and address weaknesses.
 Benchmarking & Comparative Analysis: Compare class performance with other classes or past years to identify trends. Use the mean to gauge average performance and standard deviation to assess consistency—lower deviation suggests consistent performance, while higher indicates variability.
